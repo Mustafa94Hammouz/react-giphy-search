@@ -1,0 +1,10 @@
+.gifList {
+    position:absolute;
+    top:10%;
+    left:30%;
+}
+.pagination{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
